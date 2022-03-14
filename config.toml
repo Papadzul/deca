@@ -148,7 +148,7 @@ enableEmoji = true
     weight = 5
    [[menu.header]]
     name = "Resume"
-    title = "Resume"
+    title = ""
     url = "/resume/"
     weight = 6
     
